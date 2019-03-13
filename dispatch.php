@@ -1,4 +1,5 @@
 <?php
+//Zenden
 //if(!isset($_POST['btnProcessCall']) && !isset($_POST['btSubmit']))
 		//header("Location: logcall.php");
 ?>

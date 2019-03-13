@@ -36,7 +36,7 @@ li a:hover:not(.active) {
 
 </style>
 
-<img src="SPF_FB.png" alt="logo" />
+<img src="/SPF_FB.png" alt="logo" />
 
 <marquee behavior="scroll" direction="left"><font color="337FFF"><h1>Police Emergency Service System</font></h1></marquee>
 
@@ -46,3 +46,5 @@ li a:hover:not(.active) {
   <li><a href="#contact"><b>Sign In</b></a></li>
   <li><a href="#about"><b>Sign Out</b></a></li>
 </ul>
+
+//Zenden
